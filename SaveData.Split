@@ -1,8 +1,9 @@
 {
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
-	"FurthestUnlockedChapter": "/Game/Maps/Skyline/DaClub/Skyline_DaClub_BP##DaClub Finding Sandfish",
-	"LastSaveProgressPoint": "/Game/Maps/Skyline/DaClub/Skyline_DaClub_BP##DaClub Finding Sandfish",
-	"LastSaveChapter": "/Game/Maps/Skyline/DaClub/Skyline_DaClub_BP##DaClub Finding Sandfish",
-	"ProfileCounter.TotalJumps": "424"
+	"FurthestUnlockedChapter": "/Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro",
+	"LastSaveProgressPoint": "/Game/Maps/Desert/Desert/Desert_SandFish_BP##Thumpers",
+	"LastSaveChapter": "/Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro",
+	"ProfileCounter.TotalJumps": "452",
+	"SideContent.Unlock./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true"
 }
