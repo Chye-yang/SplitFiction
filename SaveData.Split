@@ -1,10 +1,10 @@
 {
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
-	"FurthestUnlockedChapter": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Club_BP##Club Combat Entry",
-	"LastSaveProgressPoint": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Club_BP##Club Combat Grounded",
-	"LastSaveChapter": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Club_BP##Club Combat Entry",
-	"ProfileCounter.TotalJumps": "659",
+	"FurthestUnlockedChapter": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Alley_BP##Alley 0 - Start",
+	"LastSaveProgressPoint": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Alley_BP##Alley 0 - Start",
+	"LastSaveChapter": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Alley_BP##Alley 0 - Start",
+	"ProfileCounter.TotalJumps": "760",
 	"SideContent.Unlock./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
 	"SideContent.Complete./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true"
 }
