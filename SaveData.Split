@@ -1,10 +1,11 @@
 {
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
-	"FurthestUnlockedChapter": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Alley_BP##Alley 0 - Start",
-	"LastSaveProgressPoint": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Alley_BP##Alley 0 - Start",
-	"LastSaveChapter": "/Game/Maps/Skyline/Nightclub/Skyline_Nightclub_Alley_BP##Alley 0 - Start",
-	"ProfileCounter.TotalJumps": "760",
+	"FurthestUnlockedChapter": "/Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro",
+	"LastSaveProgressPoint": "/Game/Maps/PigWorld/PigWorld_BP##FirstDoorOpened",
+	"LastSaveChapter": "/Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro",
+	"ProfileCounter.TotalJumps": "770",
 	"SideContent.Unlock./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
-	"SideContent.Complete./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true"
+	"SideContent.Complete./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
+	"SideContent.Unlock./Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro": "true"
 }
