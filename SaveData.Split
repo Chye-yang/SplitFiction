@@ -2,7 +2,7 @@
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
 	"FurthestUnlockedChapter": "/Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro",
-	"LastSaveProgressPoint": "/Game/Maps/PigWorld/PigWorld_BP##FirstDoorOpened",
+	"LastSaveProgressPoint": "/Game/Maps/PigWorld/PigWorld_BP##SecondDoorOpened",
 	"LastSaveChapter": "/Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro",
 	"ProfileCounter.TotalJumps": "770",
 	"SideContent.Unlock./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
