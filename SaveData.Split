@@ -1,8 +1,8 @@
 {
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
-	"FurthestUnlockedChapter": "/Game/Maps/Tutorial/Tomb/Tomb_BP##TombStart",
-	"LastSaveProgressPoint": "/Game/Maps/Tutorial/OilRig/OilRig_Ending_BP##ShipRun",
-	"LastSaveChapter": "/Game/Maps/Tutorial/Tomb/Tomb_BP##TombStart",
-	"ProfileCounter.TotalJumps": "174"
+	"FurthestUnlockedChapter": "/Game/Maps/Tutorial/Village/Village_BP##Intro",
+	"LastSaveProgressPoint": "/Game/Maps/Tutorial/Village/Village_BP##Intro",
+	"LastSaveChapter": "/Game/Maps/Tutorial/Village/Village_BP##Intro",
+	"ProfileCounter.TotalJumps": "193"
 }
