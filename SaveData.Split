@@ -2,7 +2,7 @@
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
 	"FurthestUnlockedChapter": "/Game/Maps/Tutorial/Village/Village_BP##Intro",
-	"LastSaveProgressPoint": "/Game/Maps/Tutorial/Village/Village_BP##Windmill",
+	"LastSaveProgressPoint": "/Game/Maps/Tutorial/Village/Village_Stealth_BP##Stealth",
 	"LastSaveChapter": "/Game/Maps/Tutorial/Village/Village_BP##Intro",
-	"ProfileCounter.TotalJumps": "215"
+	"ProfileCounter.TotalJumps": "230"
 }
