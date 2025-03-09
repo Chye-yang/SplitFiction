@@ -1,10 +1,10 @@
 {
 	"EULA_Accepted": "true",
 	"UID": "342064414064E819A13CA9B6C3BEF6C3",
-	"FurthestUnlockedChapter": "/Game/Maps/Island/Stormdrain/Island_Stormdrain_BP##Start",
-	"LastSaveProgressPoint": "/Game/Maps/Island/Stormdrain/Island_Stormdrain_BP##Elevator",
-	"LastSaveChapter": "/Game/Maps/Island/Stormdrain/Island_Stormdrain_BP##Start",
-	"ProfileCounter.TotalJumps": "2504",
+	"FurthestUnlockedChapter": "/Game/Maps/KiteTown/KiteTown_BP##Intro",
+	"LastSaveProgressPoint": "/Game/Maps/KiteTown/KiteTown_BP##NoIntro",
+	"LastSaveChapter": "/Game/Maps/KiteTown/KiteTown_BP##Intro",
+	"ProfileCounter.TotalJumps": "2561",
 	"SideContent.Unlock./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
 	"SideContent.Complete./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
 	"SideContent.Unlock./Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro": "true",
@@ -16,5 +16,6 @@
 	"SideContent.Unlock./Game/Maps/GameShowArena/GameShowArena_BP##GameShowArena - Start": "true",
 	"SideContent.Complete./Game/Maps/GameShowArena/GameShowArena_BP##GameShowArena - Start": "true",
 	"SideContent.Unlock./Game/Maps/SolarFlare/SolarFlare_BP##SolarFlare_Intro": "true",
-	"SideContent.Complete./Game/Maps/SolarFlare/SolarFlare_BP##SolarFlare_Intro": "true"
+	"SideContent.Complete./Game/Maps/SolarFlare/SolarFlare_BP##SolarFlare_Intro": "true",
+	"SideContent.Unlock./Game/Maps/KiteTown/KiteTown_BP##Intro": "true"
 }
